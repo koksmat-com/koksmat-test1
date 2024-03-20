@@ -5,6 +5,14 @@ description: Purpose of this service is to demonstrate some core capabilities of
 
 # Welcome
 
+The first time you will have to wait a little while for the post installation process to complete.
+
+```
+✔ Finishing up...
+⠼ Running postCreateCommand...
+  › go install github.com/koksmat-com/koksmat@v2.0.0.8
+```
+
 ## Verify that the koksmat CLI is installed
 
 ```

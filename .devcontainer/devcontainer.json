@@ -4,7 +4,7 @@
         3000,
         3010
     ],
-    "postCreateCommand": "go install github.com/koksmat-com/koksmat@v2.0.0.8",
+    "postCreateCommand": "go install github.com/koksmat-com/koksmat@v2.0.0.10",
     "containerEnv": {
-        "KITCHENROOT": "/workspace"}
+        "KITCHENROOT": "/workspaces"}
 }
